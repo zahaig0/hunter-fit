@@ -1,0 +1,40 @@
+name: hunter_fit
+description: Solo-leveling style fitness RPG with Strava-like tracking.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^10.1.0
+  pedometer: ^4.0.1
+  shared_preferences: ^2.2.2
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/p01.jpg
+    - assets/images/p02.jpg
+    - assets/images/p03.jpg
+    - assets/images/p04.jpg
+    - assets/images/p05.jpg
+    - assets/images/p06.jpg
+    - assets/images/p07.jpg
+    - assets/images/p08.jpg
+    - assets/images/p09.jpg
+    - assets/images/p10.jpg
+    - assets/images/p11.jpg
+    - assets/images/p12.jpg
+    - assets/images/p13.jpg
+    - assets/images/p14.jpg
+    - assets/images/p15.jpg
+    - assets/images/p16.jpg
+    - assets/images/p17.jpg
+    - assets/images/p18.jpg
+    - assets/images/p19.jpg
+    - assets/images/p20.jpg
